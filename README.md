@@ -1,5 +1,5 @@
 # colormap.js
-Simple color mapping tool without any external dependencies.
+Simple color mapping tool without any external dependencies. Map values are taken from https://github.com/bpostlethwaite/colormap
 
 ## how to use
 ```
