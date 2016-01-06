@@ -1,4 +1,4 @@
-# colormap
+# colormap.js
 Simple color mapping tool without any external dependencies.
 
 ## how to use
